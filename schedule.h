@@ -1,10 +1,5 @@
 #ifndef SCHEDULE_H
 #define SCHEDULE_H
-
-// #include<iostream>
-// #include<string>
-// #include<unordered_map>
-
 #include <bits/stdc++.h>
 using namespace std;
 class Schedule{
